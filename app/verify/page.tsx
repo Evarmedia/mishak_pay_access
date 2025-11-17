@@ -249,8 +249,8 @@ export default function VerifyPaymentPage() {
         <div className="mt-6 text-center">
           <p className="text-sm text-slate-500">
             Need help? Contact support at{' '}
-            <a href="mailto:support@example.com" className="text-emerald-600 hover:underline">
-              support@example.com
+            <a href="mailto:mishakmanuel@gmail.com" className="text-emerald-600 hover:underline">
+              mishakmanuel@gmail.com
             </a>
           </p>
         </div>

@@ -31,6 +31,7 @@ export default function PaymentPage() {
       });
 
       const data = await response.json();
+      console.log(data);
 
       if (!response.ok) {
         throw new Error(data.error || 'Failed to initialize payment');
